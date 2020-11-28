@@ -4,6 +4,6 @@ An attempt to see whether you can generate text (in this case, a sourcebook for 
 
 This is technically a novel because I wrote ```meow_adder.rb``` to add meows to the final text so that we can make it to the 50,000 word-count limit that is necessary to define whether something is a novel or not.
 
-```input_file.md``` merely contains 3316 words, though this may be due to me not having enough time to use AI Dungeon. However, it does demonstrate the potential for AI Dungeon to generate human-readable content (provided one )
+```input_file.md``` merely contains 3316 words, though this may be due to me not having enough time to use AI Dungeon. However, it does demonstrate the potential for AI Dungeon to generate human-readable content (though a human should be ready to "improve"  upon the final output).
 
 You can find more information about this project at the [NaNoGenMo 2020's GitHub issue about this project](https://github.com/NaNoGenMo/2020/issues/31). Code is licensed under the Unlicense. ```input_file.md``` and ```output_file.md``` is licensed under [CC-BY, version 4.0](https://creativecommons.org/licenses/by/4.0/).
