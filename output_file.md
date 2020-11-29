@@ -6,7 +6,7 @@ I have recently acquired several documents during my research on the Kolat secre
 
 While I do not question your wisdom in analyzing these documents, I find that when one tries to study a secret conspiracy, one is bound to be disappointed. There are never any truly satisfying answers, only endless questions. Conspirators always tend to find ways of concealing their true intent from the uninitiated. At some point, even the most hardened investigator has to give up the struggle, and accept things at face value.
 
-This does not mean that investigation is pointless. It would be a shame if we abandon our religion simply because we don't know the exact details of the Celestial Order. It also does not mean that the Kolat are invulnerable - surely, they can be countered by other, more loyal secret conspiracies. It does mean that once you step foot into the land of secrets, one will never leave. Be careful.
+This does not mean that investigation is pointless. It would be a shame if we abandon our religion simply because we don't know the exact details of the Celestial Order. It also does not mean that the Kolat are invulnerable - surely, they can be countered by other, more loyal secret conspiracies. It does mean that once you step foot into the land of secrets, you will never leave. Be careful.
 
 ---Doji Renu, Emerald Magistrate
 
