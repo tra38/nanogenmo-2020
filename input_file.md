@@ -44,7 +44,7 @@ Some Kolats, an attempt to boost their prestige, has written down secret histori
 
 Though a few Kolats are hardened rebels that engage violent terrorism and rabble-rousing, most Kolats are centralized around radical philosophers who are more likely to talk about destroying the Haneti than actually do anything about it. Even some of the more well-connected Kolats, those that actually could destroy the Haneti dynasty, don't want to do the deed, fearing the consequences. Instead, these Kolats subtly seek to control the Empire from behind the scenes, for their own secretive purposes.
 
-Disgruntled samurai can join a Kolat for many reasons. Some do so because they see it as a stepping stool for personal power. Some do it because they were blackmailed into it, or because their ancestors belonged to it - so they have to uphold tradition. Some do so because they see injustice in the status quo and want to change. And still some do so because they want to be part of the Rokugani counterculture and see subversion as "cool" or exciting.
+Disgruntled samurai can join a Kolat for many reasons. Some do so because they see it as a stepping stool for personal power. Some do it because they were blackmailed into it, or because their ancestors belonged to it - so they have to uphold tradition. Some do so because they see injustice in the status quo. And still some do so because they want to be part of the Rokugani counterculture and see subversion as "cool" or exciting.
 
 ## Kolat Operating Manual
 
