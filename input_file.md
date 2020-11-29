@@ -2,7 +2,7 @@
 
 To the Emerald Champion,
 
-I am sending you a series of documents recently taken from a raid on a Kolat hideout. As per your instructions, I am sending them over to you for further analysis and archival. I have not verified the authencitiy of any these documents, so it is up to you to decide whether they are to be trusted. In my personal experience though, the best lies are the half-truths, and it is not difficult to shift through falsehoods when one has enough training.
+I am sending you a series of documents I have acquired during my research on the Kolat secret society. As per your instructions, I am sending them over to you for further analysis and archival. I have not verified the authencitiy of any these documents, so it is up to you to decide whether they are to be trusted. In my personal experience though, the best lies are the half-truths, and it is not difficult to shift through falsehoods when one has enough training.
 
 While I do not question your wisdom in analyzing these documents, I find that when one tries to study a secret conspiracy, one is bound to be disappointed. There are never any truly satisfying answers, only endless questions. Conspirators always tend to find ways of concealing their true intent from the uninitiated. At some point, even the most hardened investigator has to give up the struggle, and accept things at face value.
 
