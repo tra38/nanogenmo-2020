@@ -62,7 +62,7 @@ The most important members of the Kolat are its so-called "Kolat Masters". The i
 
 ### Kolat Agenda
 
-The Kolat's agenda is not to destroy the Empire, but to "liberate" Rokugan from what they see as an oppressive monarchy. The Kolat consist of educated and dedicated monks, shugenja, couriters, and other noble samurai who are fully aware of the benefits of living within the Empire, but dislike its religious attitudes and traditions. They want to create a secular dictatorship ruled by intellectuals, and disdain those who do not share their cold pragmatism.
+The Kolat's agenda is not to destroy the Empire, but to "liberate" Rokugan from what they see as an oppressive monarchy. The Kolat consist of educated and dedicated monks, shugenja, courtiers, and other noble samurai who are fully aware of the benefits of living within the Empire, but dislike its religious attitudes and traditions. They want to create a secular dictatorship ruled by intellectuals, and disdain those who do not share their cold pragmatism.
 
 ### Main Problems
 
