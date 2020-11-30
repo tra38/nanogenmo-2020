@@ -18,17 +18,17 @@ Renu's Note: I have found three Scrolls, each purporting to provide the true, un
 
 The Kolat originate in a small kingdom far to the east of Rokugan (possibly Pavarre). The exact origins of the Kolat are clouded in mystery, but it is generally believed that the group was founded by shugenja who opposed the worship of supernatural beings. Instead, they believed that humans should rule over everything, including the Celestial Order itself, and treated supernatural beings as tools to further their own agenda.
 
-The Kolat was an underground movement for centuries, and was prone to in-fighting. It wasn't until the Fall of the Kami did the Kolat begin to have a unifying ideology—that of resisting the Rokugani Empire and its leadership, the Haneti dynasty.
+The Kolat was an underground movement for centuries, and was prone to in-fighting. It wasn't until the Fall of the Kami did the Kolat begin to have a unifying ideology—that of resisting the Rokugani Empire and its leadership, the Hantei dynasty.
 
 The Kolat fought against the Kami for years, but were ultimately defeated and their leadership went into exile. However, they left behind scrolls detailing their subversive techniques. A new generation of dissenters found these scrolls and recreated the Kolat.
 
-This “new” Kolat sees no issue with the Empire, only the Haneti dynasty, and seeks to “reform” the Empire from within. They are constantly afraid of the possibility that the “old” Kolat may return from their exile and reassert their authority.
+This “new” Kolat sees no issue with the Empire, only the Hantei dynasty, and seeks to “reform” the Empire from within. They are constantly afraid of the possibility that the “old” Kolat may return from their exile and reassert their authority.
 
 ### Scroll of Power
 
 The Kolat are a shadowy, mysterious presence in Rokugan. Their origins are lost to time and even they don't know where it began. The Kolat have been manipulating history for centuries and will continue to do so long after the Rokugani have turned to dust. Even though the Kolat leadership may not know the true history behind their organization’s foundation, they strongly suspect that the organization was founded by ‘enlightened people’ who wanted to ‘enlighten’ others as well, by any means necessary. Fragments of ancient records talked about  establishing a "Rule of Man", where humanity would become divine entities by displacing the existing divine entities.
 
-The Kolat is not just a group of terrorists or rebels waiting to destroy the Empire. They are a group of Rokugani with radically different philosophies than the rest of the Empire. While the Empire believes in a loose totalitarianism with an emphasis on honor, the Kolat believe in establishing a “shadow government” where they control a few key powerbrokers. The purpose of this “shadow government” is a closely-kept secret, but it’s generally believed that it will usher Rokugan into the new “Age of Mankind” once the Haneti dynasty is overthrown.
+The Kolat is not just a group of terrorists or rebels waiting to destroy the Empire. They are a group of Rokugani with radically different philosophies than the rest of the Empire. While the Empire believes in a loose totalitarianism with an emphasis on honor, the Kolat believe in establishing a “shadow government” where they control a few key powerbrokers. The purpose of this “shadow government” is a closely-kept secret, but it’s generally believed that it will usher Rokugan into the new “Age of Mankind” once the Hantei dynasty is overthrown.
 
 The Kolat are not motivated by a desire to see the Empire destroyed. If the Empire is a ship, then the Kolat are trying to steer it in a different direction. Nothing more, nothing less. The Kolat are conspirators and secret-keepers. Everything they do is in the pursuit of the "greater good" of Rokugan, even if that goal isn't easily defined and constantly changes.
 
@@ -36,13 +36,13 @@ The Kolat will not care about your motivations. They do not care about your reas
 
 ### Scroll of Courage
 
-The term "Kolat" is a Rokugani term meaning "to question". Today, it is a generic term for any anti-Imperial conspiracy who questions the divine rule of the Kami. Their methods differ across the ages, but their structure and ideology is consistent. Each Kolat conspiracy is organized in a hierarchical manner: autonomous cells send delegates to a ruling council that meets in private. And all Kolat conspiracies believe in the same goal: the overthrow of the Haneti dynasty and the establishment of the "Rule of Man". How they interpret that goal, though, can differ.
+The term "Kolat" is a Rokugani term meaning "to question". Today, it is a generic term for any anti-Imperial conspiracy who questions the divine rule of the Kami. Their methods differ across the ages, but their structure and ideology is consistent. Each Kolat conspiracy is organized in a hierarchical manner: autonomous cells send delegates to a ruling council that meets in private. And all Kolat conspiracies believe in the same goal: the overthrow of the Hantei dynasty and the establishment of the "Rule of Man". How they interpret that goal, though, can differ.
 
 Though it is a very simple matter for an Emerald Magistrate to purge a single Kolat conspiracy, always another one appears elsewhere in the empire. It is impossible to truly destroy an idea, though you can limit its spread and prevent it from causing too much mischief.
 
 Some Kolats, an attempt to boost their prestige, has written down secret histories linking their efforts to more ancient Kolats, with some cells tracing their ancestry back to the original Kolats who fought against the Kami  in the early days of the Rokugani Empire. It is unclear how accurate these secret histories are.
 
-Though a few Kolats are hardened rebels that engage violent terrorism and rabble-rousing, most Kolats are centralized around radical philosophers who are more likely to talk about destroying the Haneti than actually do anything about it. Even some of the more well-connected Kolats, those that actually could destroy the Haneti dynasty, don't want to do the deed, fearing the consequences. Instead, these Kolats subtly seek to control the Empire from behind the scenes, for their own secretive purposes.
+Though a few Kolats are hardened rebels that engage violent terrorism and rabble-rousing, most Kolats are centralized around radical philosophers who are more likely to talk about destroying the Hantei than actually do anything about it. Even some of the more well-connected Kolats, those that actually could destroy the Hantei dynasty, don't want to do the deed, fearing the consequences. Instead, these Kolats subtly seek to control the Empire from behind the scenes, for their own secretive purposes.
 
 Disgruntled samurai can join a Kolat for many reasons. Some do so because they see it as a stepping stool for personal power. Some do it because they were blackmailed into it, or because their ancestors belonged to it - so they have to uphold tradition. Some do so because they see injustice in the status quo. And still some do so because they want to be part of the Rokugani counterculture and see subversion as "cool" or exciting.
 
@@ -71,7 +71,7 @@ The Kolat have made great strides in their attempts to bring down the Empire, bu
 The Kolat knows that Imperial forces are likely to strike at them, despite their best attempts at avoiding detection. Therefore, they need to be able to defend themselves against such attacks. To this end, they're attempting to train and arm a specialized group of warriors. Unfortunately, this plan isn't going very well, as they're having a tough time finding people to fit their stringent criteria and putting them through the training.
 
 ### What If The Kolat Wins?
-If the Kolat do succeed in overthrowing the Haneti dynasty and taking over, they will limit the influence of the Major Clans and rule as cruel tyrants. The Kolat's original ideology of human potential will be lost, in favor of pure greed. Intellectualism is equated to superiority, and they rule the dumb masses with the help of a powerful military.
+If the Kolat do succeed in overthrowing the Hantei dynasty and taking over, they will limit the influence of the Major Clans and rule as cruel tyrants. The Kolat's original ideology of human potential will be lost, in favor of pure greed. Intellectualism is equated to superiority, and they rule the dumb masses with the help of a powerful military.
 
 However, they will tolerate the Crab clan, due to their usefulness in combating the Shadowlands, and will even provide them with financial and military support. Hypocritically, the Kolat will also research how to use maho “safely”, since it is considered more “reliable” and “effective” when compared to praying to the fickle Kami and fortunes. They might even attempt to purify the Shadowlands Taint using maho, so confident they are in their intellectual talents.
 
@@ -99,7 +99,7 @@ Hook: A popular, well-respected and high-ranking shukke (advisor) to the Emperor
 
 Rising Action: The Emperor has no living siblings, and his children are young and have not yet shown the desired traits of personal discipline and wisdom. The government is paralyzed and the samurai aristocracy are divided in their support for possible successors. The Emperor himself is too distraught over the loss of his advisor and companion to make any decision.
 
-Climax: The players learn that the high-ranking shukke was actually a high-ranking Kolat member that was poisoned by another high-ranking Kolat member in a brutal power struggle. If the players investigate further, they find out that the shukke’s murderer is a close friend of the Emperor's children. Revealing this fact would jeopardize the legitimacy of the Haneti dynasty outright, and possibly play right into the Kolat’s hands.
+Climax: The players learn that the high-ranking shukke was actually a high-ranking Kolat member that was poisoned by another high-ranking Kolat member in a brutal power struggle. If the players investigate further, they find out that the shukke’s murderer is a close friend of the Emperor's children. Revealing this fact would jeopardize the legitimacy of the Hantei dynasty outright, and possibly play right into the Kolat’s hands.
 
 ### Fealty and Filial Duty
 
@@ -125,7 +125,7 @@ The Kolat are interesting as strong recurring villains that the players can deal
 
 They can also provoke internal conflict within the players as well, even though they are a terrorist organization, or perhaps especially because they are a terrorist organization. Many of the Kolat's agents really believe in their cause and don't want to see the Empire fall - they just want to take it over. There are also those who are dedicated to the organization first and are willing to do whatever it takes to further the Kolat's cause, even if it means endangering the Empire and the people in it.
 
-Can they trust anyone who openly associates with the Kolat? Does the end justify the means? Are there other, less violent, ways of changing the status quo? And is their shady contact really loyal to the Kolat, or is he an agent of the Haneti dynasty trying to test their loyalty? These are all questions that can cause great internal conflict within the party, especially since they may need to turn to the Kolat for help on an occasional basis.
+Can they trust anyone who openly associates with the Kolat? Does the end justify the means? Are there other, less violent, ways of changing the status quo? And is their shady contact really loyal to the Kolat, or is he an agent of the Hantei dynasty trying to test their loyalty? These are all questions that can cause great internal conflict within the party, especially since they may need to turn to the Kolat for help on an occasional basis.
 
 Of course, the Kolat can offer tangible benefits as well. You are going to have to deal with their constant demands though. Is that a price your players are willing to pay?
 ---
