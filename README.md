@@ -13,3 +13,6 @@ You can find more information about this project at the [NaNoGenMo 2020's GitHub
 The sourcebook in question is about the Kolat, a powerful secret society in Rokugan that is dedicated to overthrowing the Haneti dynasty. This organization had a lot of lore in previous editions of *Legend of the Five Rings*, but in the current edition (5th edition), there was no lore forthcoming about it. So I decided to work on this project, to learn more about this mysterious entity.
 
 The "Scroll of Courage" is inspired by discussions in the [L5R Discord](https://discord.gg/nvVX9Wb), specifically the idea that the Kolat might not actually be an all-powerful conspiracy but just a catch-all term to refer to any anti-Rokugani organization.
+
+### PDF Version
+Here's [a nicely formatted PDF](https://drive.google.com/file/d/11UMguCWOKRkTkL1lc5HSAhGnXlOdHum9/view) of the text of ```input_file.md```, in case you're interested in that sort of thing.
